@@ -42,7 +42,6 @@
   ],
   "homepage": "https://github.com/nullndr/Matador#readme",
   "dependencies": {
-    "@mantine/core": "4.2.5",
     "@remix-run/node": "*",
     "@remix-run/react": "*",
     "@remix-run/serve": "*",
@@ -53,6 +52,7 @@
     "react-icons": "4.3.1"
   },
   "devDependencies": {
+    "@headlessui/react": "1.6.2",
     "@remix-run/dev": "*",
     "@remix-run/eslint-config": "*",
     "@testing-library/dom": "8.13.0",
